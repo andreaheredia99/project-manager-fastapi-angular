@@ -1,0 +1,1 @@
+// imagenes, iconos, fuentes, JSON estáticos
