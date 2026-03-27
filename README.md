@@ -77,3 +77,20 @@ You can also view the project demo video here:
 - 🐳 Ready for deployment with Docker  
 - ✨ Clean, structured code and documentation
 - 🎓 Intensive Bootcamp Training – completed hands-on full-stack program, enhancing skills in FastAPI, Angular, and professional project workflow
+
+---
+
+## ▶️ How to run
+
+- Frontend:
+npm install  
+ng serve  
+
+- Backend:
+pip install -r requirements.txt  
+fastapi dev main.py  
+
+---
+
+## 📌 Status
+Project in active development
