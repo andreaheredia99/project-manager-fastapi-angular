@@ -44,6 +44,11 @@ Full-stack app with **FastAPI backend**, **Angular frontend**, and professional 
 
 ---
 
+## 🎯 Goal  
+Build a scalable content management system focused on structured writing.
+
+---
+
 ### 💻 Project Preview
 
 ![Desktop Version](images/dashboard.png)  
