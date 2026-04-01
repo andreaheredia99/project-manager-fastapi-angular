@@ -1,6 +1,6 @@
-// guarda configuraciones de entorno (desarrollo, producción...)
+// guarda configuraciones de entorno (desarrollo-local y producción-real)
 
 export const environment = {
     production: false,
-    apiUrl: 'http://localhost:8000' // tu backend FastAPI en local
+    apiUrl: 'http://localhost:8000' // backend FastAPI en local
 };

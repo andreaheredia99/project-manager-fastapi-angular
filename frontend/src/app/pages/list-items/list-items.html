@@ -1,1 +1,8 @@
-<p>list-items works!</p>
+<h2>List of Items</h2>
+
+<!--Recorre los datos y pinta resultados en pantalla-->
+<ul>
+    @for (item of items(); track item.id) {
+    <li>{{ item.title }}</li>
+    }
+</ul>

@@ -1,1 +1,6 @@
 // interfaces (user, item...)
+
+export interface Item {
+    id: number;
+    title: string;
+}

@@ -1,1 +1,11 @@
-<p>login works!</p>
+<h2>Login</h2>
+
+<input type="email" placeholder="Email" (input)="onEmailInput($event)" />
+
+<input type="password" placeholder="Password" (input)="onPasswordInput($event)" />
+
+<button (click)="onLogin()">Login</button>
+
+@if (error()) {
+<p style="color:red;">{{ error() }}</p>
+}
